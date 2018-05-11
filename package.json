@@ -6,6 +6,9 @@
 "scripts":  {
   "start": "node bot.js"
  },
+  "engines": {
+    "node": "6.0.1"
+  },
  "dependencies": {
   "discord.js": "^11.3.2",
   "numeral": "^2.0.6",
